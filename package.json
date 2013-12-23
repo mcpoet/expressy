@@ -1,0 +1,43 @@
+{
+  "name": "BL_Comic_Store",
+  "description": "A comic store web&app server work for BoysLoves",
+  "version": "1.0.0",
+  "author": "Steve Marse <marrowsky@gmail.com>",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Steve Marse",
+      "email": "marrowsky@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "express":"3.x",
+    "connect": "2.12.0",
+    "session": "x",
+    "ejs": "x",
+    "commander": "1.3.2",
+    "range-parser": "0.0.4",
+    "mkdirp": "0.3.5",
+    "cookie": "0.1.0",
+    "buffer-crc32": "0.2.1",
+    "fresh": "0.2.0",
+    "methods": "0.1.0",
+    "send": "0.1.4",
+    "debug": ">= 0.7.3 < 1"
+  },
+  "keywords": [
+    "express",
+    "framework",
+    "sinatra",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT"
+}
